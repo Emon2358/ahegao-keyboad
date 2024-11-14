@@ -9,12 +9,12 @@ pygame.mixer.init()
 
 # 音声ファイルのリスト
 sound_files = [
-    r"C:\Users\Kinne\Downloads\AH.wav",
-    r"C:\Users\Kinne\Downloads\AhH.wav",
-    r"C:\Users\Kinne\Downloads\eeYAH.wav",
-    r"C:\Users\Kinne\Downloads\eghng.mp3",
-    r"C:\Users\Kinne\Downloads\iiYAH.mp3",
-    r"C:\Users\Kinne\Downloads\OH.wav"
+    r,
+    r,
+    r,
+    r,
+    r,
+    r
 ]
 
 def play_random_sound():
